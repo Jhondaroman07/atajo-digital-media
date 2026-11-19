@@ -18,3 +18,8 @@ Lista de carruseles ya publicados o programados, para no repetir temas.
 - 19 nov 2026: ¿Cuánto pagas de verdad por comprar a cuotas? (tools/reel.py)
 - 21 nov 2026: ¿Cuánto tarda una computadora en adivinar tu contraseña? (tools/reel2.py)
 - 24 nov 2026: Lo que de verdad te cuesta un café diario / gasto hormiga (tools/reel3.py)
+
+## Reels pendientes (sin créditos de vidIQ, revisado el 19 nov 2026)
+Guiones en reels/guiones-pendientes.md; no hay nada programado en Metricool para estas fechas.
+- 26 nov 2026: 30 % + 20 % de descuento no es 50 % (Black Friday) — pendiente
+- 28 nov 2026: La regla del 72 — pendiente
