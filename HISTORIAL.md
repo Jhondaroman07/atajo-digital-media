@@ -8,3 +8,13 @@ Lista de carruseles ya publicados o programados, para no repetir temas.
 - 23 nov 2026: 5 programas gratis que reemplazan software caro (Photopea, DaVinci Resolve, LibreOffice, OBS Studio, Inkscape)
 - 25 nov 2026: Pídele a la IA cualquier fórmula de Excel en 4 pasos
 - 27 nov 2026: Regla 3-2-1 de respaldo de archivos
+
+## Calendario fijo (definido el 18 nov 2026 con los mejores horarios de Metricool)
+- Carruseles: lunes, miércoles y viernes a las 10:00 (Instagram, Facebook, TikTok).
+- Reels: martes, jueves y sábado a las 18:00 (Instagram, Facebook, TikTok) y el mismo video como Short de YouTube a las 16:00.
+- Domingo sin publicación.
+
+## Reels (narración IA de vidIQ/ElevenLabs, voz "Francisco"; marcados como contenido IA)
+- 19 nov 2026: ¿Cuánto pagas de verdad por comprar a cuotas? (tools/reel.py)
+- 21 nov 2026: ¿Cuánto tarda una computadora en adivinar tu contraseña? (tools/reel2.py)
+- 24 nov 2026: Lo que de verdad te cuesta un café diario / gasto hormiga (tools/reel3.py)
