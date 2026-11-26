@@ -9,7 +9,7 @@ Lista de carruseles ya publicados o programados, para no repetir temas.
 - 25 nov 2026: Pídele a la IA cualquier fórmula de Excel en 4 pasos
 - 27 nov 2026: Regla 3-2-1 de respaldo de archivos
 
-## Semana 2 (carruseles en revisión en Metricool, 10:00 hora de Bogotá; imágenes en carruseles/semana-02, generadas con tools/gen_s2.py)
+## Semana 2 (carruseles como borradores en Metricool, pendientes de aprobación, 10:00 hora de Bogotá; imágenes en carruseles/semana-02, generadas con tools/gen_s2.py)
 - 30 nov 2026 (Cyber Monday): 6 señales de una tienda falsa en internet (+ reversión del pago, art. 51 Ley 1480)
 - 2 dic 2026: Tu prima de diciembre: cuánto te toca (salario × días ÷ 360) y qué hacer con ella
 - 4 dic 2026: ¿Te robaron el celular? 5 pasos para la primera hora
